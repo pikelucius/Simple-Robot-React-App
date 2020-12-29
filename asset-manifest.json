@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Simple-Robot-React-App/static/css/main.e6018c21.chunk.css",
-    "main.js": "/Simple-Robot-React-App/static/js/main.0d9e3fcc.chunk.js",
-    "main.js.map": "/Simple-Robot-React-App/static/js/main.0d9e3fcc.chunk.js.map",
+    "main.js": "/Simple-Robot-React-App/static/js/main.f0abf058.chunk.js",
+    "main.js.map": "/Simple-Robot-React-App/static/js/main.f0abf058.chunk.js.map",
     "runtime-main.js": "/Simple-Robot-React-App/static/js/runtime-main.7baa0d52.js",
     "runtime-main.js.map": "/Simple-Robot-React-App/static/js/runtime-main.7baa0d52.js.map",
     "static/css/2.31461e4f.chunk.css": "/Simple-Robot-React-App/static/css/2.31461e4f.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.0b94c88b.chunk.js",
     "static/css/main.e6018c21.chunk.css",
-    "static/js/main.0d9e3fcc.chunk.js"
+    "static/js/main.f0abf058.chunk.js"
   ]
 }
