@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Simple-Robot-React-App/static/css/main.4768da90.chunk.css",
+    "main.css": "/Simple-Robot-React-App/static/css/main.0e52ecba.chunk.css",
     "main.js": "/Simple-Robot-React-App/static/js/main.ea76c0c5.chunk.js",
     "main.js.map": "/Simple-Robot-React-App/static/js/main.ea76c0c5.chunk.js.map",
     "runtime-main.js": "/Simple-Robot-React-App/static/js/runtime-main.d319253d.js",
@@ -14,7 +14,7 @@
     "service-worker.js": "/Simple-Robot-React-App/service-worker.js",
     "service-worker.js.map": "/Simple-Robot-React-App/service-worker.js.map",
     "static/css/2.31461e4f.chunk.css.map": "/Simple-Robot-React-App/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.4768da90.chunk.css.map": "/Simple-Robot-React-App/static/css/main.4768da90.chunk.css.map",
+    "static/css/main.0e52ecba.chunk.css.map": "/Simple-Robot-React-App/static/css/main.0e52ecba.chunk.css.map",
     "static/js/2.66a79004.chunk.js.LICENSE.txt": "/Simple-Robot-React-App/static/js/2.66a79004.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Simple-Robot-React-App/static/media/SEGA.47b4bfa9.woff"
   },
@@ -22,7 +22,7 @@
     "static/js/runtime-main.d319253d.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.66a79004.chunk.js",
-    "static/css/main.4768da90.chunk.css",
+    "static/css/main.0e52ecba.chunk.css",
     "static/js/main.ea76c0c5.chunk.js"
   ]
 }
